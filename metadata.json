@@ -1,0 +1,6 @@
+{
+  "name": "Honor 400 Lite",
+  "description": "Honor 400 Lite smartfon simulyatori o'yini: YouTube, Instagram, 4 ta qiziqarli o'yin, kamera, chat va barcha ilovalar jamlangan virtual telefon.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
